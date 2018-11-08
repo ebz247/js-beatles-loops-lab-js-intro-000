@@ -23,8 +23,8 @@ function iLoveTheBeatles(number){
   var foo = [];
   do {
     foo.push("I love the Beatles!")
-  } while( number < 15) {
-    console.log("the difference is currently" + number;)
+  } while(number < 15) {
+    console.log("the difference is currently" + number);
     number++;
   }
   return foo;
