@@ -24,7 +24,7 @@ function iLoveTheBeatles(number){
   do {
     foo.push("I love the Beatles!")
   } while( number < 15) {
-    console.log("the difference is currently" + 15 - number;)
+    console.log("the difference is currently" + 15-number;)
     number++;
   }
   return foo;
