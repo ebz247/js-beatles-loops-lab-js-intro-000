@@ -12,6 +12,7 @@ function johnLennonFacts(facts) {
   let countdown = facts.length
   while(countdown > 0 ){
     console.log("hello")
+    countdown--;
   }
   return facts;
 }
