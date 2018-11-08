@@ -13,8 +13,8 @@ function johnLennonFacts(facts) {
   let i = 0;
   while(countdown > 0 ){
     facts[i] += "!!!";
-	countdown--;
-	i++;
+	   countdown--;
+	    i++;
   }
   return facts;
 }
